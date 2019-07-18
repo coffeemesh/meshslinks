@@ -1,5 +1,5 @@
 # meshslinks
-This is a collection of useful links that I have come across programming/testing
+This is a collection of useful links that I have come across programming/testing, sometime in the future I am also planning to modify this repo to be more than just a collection of links
 
 # Pentesting / Training
   - https://www.hackthebox.eu/ (Try to register if you want to try it out)
