@@ -10,7 +10,7 @@ This is a collection of useful links that I have come across programming/testing
   - https://www.privacytools.io/ (Extensive explanation about Privacy on the internet)
 
 # Git-Hub Repos:
-  - https://github.com/kickstartcoding/cheatsheets
+  - https://github.com/kickstartcoding/cheatsheets (Kickstart your coding skills with these Cheatsheets)
   - https://github.com/ct-Open-Source/tuya-convert 
   - https://github.com/diafygi/webrtc-ips  
   - https://github.com/Igglybuff/awesome-piracy
