@@ -20,7 +20,7 @@ This is a collection of useful links that I have come across during my adventure
   - https://github.com/FavioVazquez/ds-cheatsheets
   
   Unsorted
-  - https://github.com/ct-Open-Source/tuya-convert (Smart home solutions to anyone)
+  - https://github.com/ct-Open-Source/tuya-convert (Smart home solutions for anyone)
   - https://github.com/diafygi/webrtc-ips  
   - https://github.com/Igglybuff/awesome-piracy
   - https://github.com/marcan/takeover.sh  
