@@ -14,12 +14,12 @@ This is a collection of useful links that I have come across programming/testing
   - https://www.privacytools.io/ (Extensive explanation about #Privacy on the internet)
 
 # Git-Hub Repos:
-  # Programming
+  Programming
   - https://github.com/kickstartcoding/cheatsheets (Kickstart your coding skills with these Cheatsheets)
   - https://github.com/kognise/water.css
   - https://github.com/FavioVazquez/ds-cheatsheets
   
-  # Unsorted
+  Unsorted
   - https://github.com/ct-Open-Source/tuya-convert (Smart home solutions to anyone)
   - https://github.com/diafygi/webrtc-ips  
   - https://github.com/Igglybuff/awesome-piracy
