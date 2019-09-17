@@ -17,6 +17,7 @@ This is a collection of useful links that I have come across during my adventure
   Programming
   - https://github.com/kickstartcoding/cheatsheets (Kickstart your coding skills with these Cheatsheets)
   - https://github.com/FavioVazquez/ds-cheatsheets (Data Science Cheatsheets)
+  - https://github.com/tldr-pages/tldr (TLDR for technology stacks, very broad availability) 
  
 # Linux
  - https://github.com/marcan/takeover.sh  (A script to completely take over a running Linux system remotely. Very dangerous)
