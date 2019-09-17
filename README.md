@@ -16,24 +16,27 @@ This is a collection of useful links that I have come across during my adventure
 # Git-Hub Repos:
   Programming
   - https://github.com/kickstartcoding/cheatsheets (Kickstart your coding skills with these Cheatsheets)
-  - https://github.com/kognise/water.css
-  - https://github.com/FavioVazquez/ds-cheatsheets
+  - https://github.com/FavioVazquez/ds-cheatsheets (Data Science Cheatsheets)
  
 # Linux
  - https://github.com/marcan/takeover.sh  (A script to completely take over a running Linux system remotely. Very dangerous)
  
 # Unsorted
   - https://github.com/ct-Open-Source/tuya-convert (Smart home solutions for anyone)
-  - https://github.com/diafygi/webrtc-ips  
-  - https://github.com/Igglybuff/awesome-piracy
+  - https://github.com/diafygi/webrtc-ips  (STUN, obtain a users local and public IP addresses in javascript)
+  - https://github.com/Igglybuff/awesome-piracy ("A curated list of arrrrrrrrr!")
   - https://github.com/florinpop17/app-ideas  
   - https://github.com/trimstray/the-book-of-secret-knowledge  
-  - https://github.com/StreisandEffect/streisand  
-  - https://github.com/florinpop17/app-ideas  
-  - https://github.com/kognise/water.css    
-  - https://github.com/trimstray/the-book-of-secret-knowledge  
-  - https://github.com/StreisandEffect/streisand
+  - https://github.com/StreisandEffect/streisand 
+  
 # Online Analysers
   - https://toolbox.googleapps.com/apps/messageheader/analyzeheader
+  
 # Misc
-  - https://codesignal.com/
+  - https://www.shortcutfoo.com (Amazing shortcut Trainer website for IDEs,languages etc)
+  
+# Browser Extensions
+  - https://decentraleyes.org/ (Protects against tracking with a local CDN (Content Delivery Network) emulation.)
+  - https://www.eff.org/privacybadger (Privacy Badger Privacy Badger blocks spying ads and invisible trackers.)
+  - https://www.eff.org/https-everywhere (HTTPS Everywhere is an extension that encrypts your communications with many major websites, making your browsing more secure.)
+  - https://github.com/gorhill/uBlock (One of the better AdBlockers out there)
