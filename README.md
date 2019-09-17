@@ -32,6 +32,7 @@ This is a collection of useful links that I have come across during my adventure
   - https://www.eff.org/privacybadger (Privacy Badger Privacy Badger blocks spying ads and invisible trackers.)
   - https://www.eff.org/https-everywhere (HTTPS Everywhere is an extension that encrypts your communications with many major websites, making your browsing more secure.)
   - https://github.com/gorhill/uBlock (One of the better AdBlockers out there)
+  - https://github.com/Ibit-to/google-unlocked (Google Unlocked, show results that were hidden due to cencorship)
   
 # Unsorted
   - https://github.com/ct-Open-Source/tuya-convert (Smart home solutions for anyone)
