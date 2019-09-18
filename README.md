@@ -4,6 +4,7 @@ This is a collection of useful links that I have come across during my adventure
 # Pentesting / Training
   - https://www.hackthebox.eu (Try to register if you want to try it out)
   - http://overthewire.org/wargames (Many different games to train on, including CTF)
+  - https://github.com/EbookFoundation/free-programming-books (Lots of free programming books in different languages)
   
 # IT-Security, Guides and Vulnerabilities
   - https://www.kuketz-blog.de (German Blog)
