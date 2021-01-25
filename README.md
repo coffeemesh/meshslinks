@@ -5,6 +5,8 @@ This is a collection of useful links that I have come across during my adventure
   - https://www.hackthebox.eu (Try to register if you want to try it out)
   - http://overthewire.org/wargames (Many different games to train on, including CTF)
   - https://github.com/EbookFoundation/free-programming-books (Lots of free programming books in different languages)
+  - https://tryhackme.com/ 
+  - https://guidedhacking.com/threads/ghb0-game-hacking-bible-introduction.14450/ (The best guide on Game & Process hacking)
   
 # IT-Security, Guides and Vulnerabilities
   - https://www.kuketz-blog.de (German Blog)
@@ -31,10 +33,10 @@ This is a collection of useful links that I have come across during my adventure
   
 # Browser Extensions
   - https://decentraleyes.org/ (Protects against tracking with a local CDN (Content Delivery Network) emulation.)
-  - https://www.eff.org/privacybadger (Privacy Badger Privacy Badger blocks spying ads and invisible trackers.)
-  - https://www.eff.org/https-everywhere (HTTPS Everywhere is an extension that encrypts your communications with many major websites, making your browsing more secure.)
+  - secure.)
   - https://github.com/gorhill/uBlock (One of the better AdBlockers out there)
   - https://github.com/Ibit-to/google-unlocked (Google Unlocked, show results that were hidden due to cencorship)
+  - https://gitlab.com/KevinRoebert/ClearUrls (Clear URLS automatically remove tracking elements from URLs)
   
 # Unsorted
   - https://github.com/ct-Open-Source/tuya-convert (Smart home solutions for anyone)
