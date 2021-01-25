@@ -33,7 +33,7 @@ This is a collection of useful links that I have come across during my adventure
   
 # Browser Extensions
   - https://decentraleyes.org/ (Protects against tracking with a local CDN (Content Delivery Network) emulation.)
-  - secure.)
+  - secure)
   - https://github.com/gorhill/uBlock (One of the better AdBlockers out there)
   - https://github.com/Ibit-to/google-unlocked (Google Unlocked, show results that were hidden due to cencorship)
   - https://gitlab.com/KevinRoebert/ClearUrls (Clear URLS automatically remove tracking elements from URLs)
