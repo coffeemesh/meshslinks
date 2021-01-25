@@ -12,6 +12,7 @@ This is a collection of useful links that I have come across during my adventure
   - https://www.kuketz-blog.de (German Blog)
   - https://nvd.nist.gov/vuln (Very extensive vulnerabilities List)
   - https://www.ceos3c.com/hacking/getting-started-in-cyber-security-in-2019-the-ultimate-guide/
+  - https://owasp.org/www-project-top-ten/ (OWASP top 10 Web App Security Risks)
 
 # Privacy on the internet
   - https://www.privacytools.io/ (Extensive explanation about #Privacy on the internet)
@@ -32,8 +33,7 @@ This is a collection of useful links that I have come across during my adventure
   - https://www.shortcutfoo.com (Amazing shortcut Trainer website for IDEs,languages etc)
   
 # Browser Extensions
-  - https://decentraleyes.org/ (Protects against tracking with a local CDN (Content Delivery Network) emulation.)
-  - secure)
+  - https://decentraleyes.org/ (Protects against tracking with a local CDN (Content Delivery Network) emulation)
   - https://github.com/gorhill/uBlock (One of the better AdBlockers out there)
   - https://github.com/Ibit-to/google-unlocked (Google Unlocked, show results that were hidden due to cencorship)
   - https://gitlab.com/KevinRoebert/ClearUrls (Clear URLS automatically remove tracking elements from URLs)
