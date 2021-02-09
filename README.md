@@ -31,12 +31,14 @@ This is a collection of useful links that I have come across during my adventure
   
 # Misc
   - https://www.shortcutfoo.com (Amazing shortcut Trainer website for IDEs,languages etc)
+  - https://onlinesim.ru/en (Virtual phone numbers for online text message reception)
   
 # Browser Extensions
   - https://decentraleyes.org/ (Protects against tracking with a local CDN (Content Delivery Network) emulation)
   - https://github.com/gorhill/uBlock (One of the better AdBlockers out there)
   - https://github.com/Ibit-to/google-unlocked (Google Unlocked, show results that were hidden due to cencorship)
   - https://gitlab.com/KevinRoebert/ClearUrls (Clear URLS automatically remove tracking elements from URLs)
+  - https://github.com/ajayyy/SponsorBlock (SponsorBlock, automatically skips sponsor spots on YouTube videos)
   
 # Unsorted
   - https://github.com/ct-Open-Source/tuya-convert (Smart home solutions for anyone)
