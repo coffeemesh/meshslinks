@@ -22,6 +22,7 @@ This is a collection of useful links that I have come across during my adventure
   - https://github.com/kickstartcoding/cheatsheets (Kickstart your coding skills with these Cheatsheets)
   - https://github.com/FavioVazquez/ds-cheatsheets (Data Science Cheatsheets)
   - https://github.com/tldr-pages/tldr (TLDR for technology stacks, very broad availability) 
+  - https://github.com/dnGrep/dnGrep (In my opinion, the best text search tool for windows ever)
 
   Misc
   - https://github.com/mendel5/alternative-front-ends (Alternative Frontends for known services)
