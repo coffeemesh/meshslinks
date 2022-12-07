@@ -22,6 +22,8 @@ This is a collection of useful links that I have come across during my adventure
   - https://www.sololearn.com/ (Free courses in many languages nice android app too)
   - https://www.codewars.com/ (No courses but lots of training tasks for all levels of experience, also possible to solve them with TDD, more community aspect)
   - https://www.jshero.net/en/home.html (Perfect starting point for JavaScript, from beginner to advanced, Made in Germany)
+  - https://www.codingame.com/start (Learn to code more interactively with small games)
+  - https://roadmap.sh/ (Plan your roadmap for your career)
 
 # Git-Hub Repos:
   Programming
