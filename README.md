@@ -16,6 +16,12 @@ This is a collection of useful links that I have come across during my adventure
 
 # Privacy on the internet
   - https://www.privacytools.io/ (Extensive explanation about #Privacy on the internet)
+  - https://www.privacyguides.org/ (Alternative to above link, since there was a seperation in the community, use this one)
+
+# Learn to Code
+  - https://www.sololearn.com/ (Free courses in many languages nice android app too)
+  - https://www.codewars.com/ (No courses but lots of training tasks for all levels of experience, also possible to solve them with TDD, more community aspect)
+  - https://www.jshero.net/en/home.html (Perfect starting point for JavaScript, from beginner to advanced, Made in Germany)
 
 # Git-Hub Repos:
   Programming
