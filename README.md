@@ -31,7 +31,7 @@ This is a collection of useful links that I have come across during my adventure
   - https://github.com/FavioVazquez/ds-cheatsheets (Data Science Cheatsheets)
   - https://github.com/tldr-pages/tldr (TLDR for technology stacks, very broad availability) 
   - https://github.com/dnGrep/dnGrep (In my opinion, the best text search tool for windows ever)
-
+  
   Misc
   - https://github.com/mendel5/alternative-front-ends (Alternative Frontends for known services)
  
@@ -45,12 +45,13 @@ This is a collection of useful links that I have come across during my adventure
   - https://www.shortcutfoo.com (Amazing shortcut Trainer website for IDEs,languages etc)
   - https://onlinesim.ru/en (Virtual phone numbers for online text message reception)
   
-# Browser Extensions
+# Browser(mainly Firefox) Extensions
   - https://decentraleyes.org/ (Protects against tracking with a local CDN (Content Delivery Network) emulation)
   - https://github.com/gorhill/uBlock (One of the better AdBlockers out there)
   - https://github.com/Ibit-to/google-unlocked (Google Unlocked, show results that were hidden due to cencorship)
   - https://gitlab.com/KevinRoebert/ClearUrls (Clear URLS automatically remove tracking elements from URLs)
   - https://github.com/ajayyy/SponsorBlock (SponsorBlock, automatically skips sponsor spots on YouTube videos)
+  - https://github.com/nmaier/tabtools (Small extension for FireFox allowing you to close duplicate tabs)
   
 # Unsorted
   - https://github.com/ct-Open-Source/tuya-convert (Smart home solutions for anyone)
