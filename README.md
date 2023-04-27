@@ -17,6 +17,7 @@ This is a collection of useful links that I have come across during my adventure
 # Privacy on the internet
   - https://www.privacytools.io/ (Extensive explanation about #Privacy on the internet)
   - https://www.privacyguides.org/ (Alternative to above link, since there was a seperation in the community, use this one)
+  - https://digitalgoods.proxysto.re/en ("strengthening digital self-defense | research and development | providing privacy-focused goods and services." Very cool concept for providing goods & services while respecting privacy as their main focus, check them out! )
 
 # Learn to Code
   - https://www.sololearn.com/ (Free courses in many languages nice android app too)
